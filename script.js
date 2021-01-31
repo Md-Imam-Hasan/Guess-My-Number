@@ -1,5 +1,5 @@
 'use strict';
-let Score,randomNumber;
+let Score, randomNumber;
 let HighScore = 0;
 function init() {
   Score = 20;
